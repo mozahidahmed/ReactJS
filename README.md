@@ -7,8 +7,9 @@
 </ol>
 
 <ol>
-    <h4>Working projects Overview</h4>
-    <li>Desgn home pages</li>
+    <h4>E-commers working</h4>
+    <li>Design home pages</li>
+    <li>Design producs pages</li>
     
  
 </ol>
