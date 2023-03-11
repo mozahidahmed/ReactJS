@@ -7,7 +7,7 @@
 </ol>
 
 <ol>
-    <h4>E-commers working</h4>
+    <h4>e-commers website working</h4>
     <li>Design home pages</li>
     <li>Design produces pages</li>
 
